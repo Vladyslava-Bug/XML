@@ -4,7 +4,7 @@
   <Summary>In the XXX app for Learners, when viewing words from a lesson, the Add to dictionary button is covered by the app bar</Summary>
   <Priority>High</Priority>
   <Severity>Blocker</Severity>
-  <Status>Close</Status>
+  <Status>New</Status>
   <Description>1. Go to the site XXX and login as a teacher using access Login: XXX Password: XXX</Description>
   <Description>2. Launch the mobile app for students (link) and login as a student using access Login: XXX Password: XXX</Description>
   <Description>3. As a teacher, go to the “Video Practice” tab</Description>
