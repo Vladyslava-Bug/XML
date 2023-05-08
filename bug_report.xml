@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Number>B1</Number>
+  <Summary>In the XXX app for Learners, when viewing words from a lesson, the Add to dictionary button is covered by the app bar</Summary>
+  <Priority>High</Priority>
+  <Severity>Blocker</Severity>
+  <Status>Close</Status>
+  <Description>1. Go to the site XXX and login as a teacher using access Login: XXX Password: XXX</Description>
+  <Description>2. Launch the mobile app for students (link) and login as a student using access Login: XXX Password: XXX</Description>
+  <Description>3. As a teacher, go to the “Video Practice” tab</Description>
+  <Description>4. Choose Student (which you use in the app) and any Video lesson</Description>
+  <Description>5. In the application for the Student, click on any word from the lesson material</Description>
+  <Act.result>A window appears with a translation and a button Add to vocabulary</Act.result>
+  <Attachments>https://api.media.atlassian.com/file/fdd505ce-f282-4c36-9e37-bc4208c6ffc8/artifact/video_1280.mp4/binary?client=a1e768de-a03a-4335-8c08-a0b62c5958c3&amp;collection=&amp;max-age=2592000&amp;token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhMWU3NjhkZS1hMDNhLTQzMzUtOGMwOC1hMGI2MmM1OTU4YzMiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpmaWxlOmZkZDUwNWNlLWYyODItNGMzNi05ZTM3LWJjNDIwOGM2ZmZjOCI6WyJyZWFkIl19LCJleHAiOjE2ODM1NTkyMzQsIm5iZiI6MTY4MzU1ODMzNH0.azeHg1Sz1Pd33PuD0a2eH8D-Z1byCO4oVma3aBJ5eJ8</Attachments>
+  <Environment>OS Android version 13</Environment>
+  <Environment>Android Studio</Environment>
+  <Environment>Model: sdk_gphone64_x86_64</Environment>
+  <Environment>Pixel 5 API 33</Environment>
+  <Environment>Resolution 1080 * 2340</Environment>
+  <Expected_reslt>The translation window appears, the Add to vocabulary button is hidden behind the application panel</Expected_reslt>
+</root>
